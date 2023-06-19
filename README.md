@@ -21,3 +21,11 @@ Coming Soon...
 [Kevin Volmhagen](https://github.com/KevinOW) &
 Gustav Ferdman
 
+Project Link: [Project Link](https://github.com/KevinOW/FABLAB-PET-RECYCLER)
+
+## License
+Distributed under the GPL-3.0 License. See LICENSE.md for more information.
+
+## Acknowledgments
+ - [Shields.io](https://shields.io/)
+
