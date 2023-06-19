@@ -6,7 +6,7 @@
 
 # PET RECYCLER - HALMSTAD FABLAB
 
-This is project that is connected to a summer courses at the University of Halmstad in Sweden. This project is connected to the comapny Stena Recycling, we are looking to make a product that is sustainable and could be recycled. The main goal with this project is to create a PET recycling machine. This machine will be built mostly 3D printed parts to be as sustainable as possible and easily accessible for others around the world. The machine will turn PET bottles into filament for 3D Printers.
+This project is associated with the summer courses at the University of Halmstad in Sweden and is affiliated with Stena Recycling, a renowned company. The objective of this project is to develop a sustainable and recyclable product. Our primary focus is to design a PET recycling machine, leveraging predominantly 3D printed components to ensure optimal sustainability and global accessibility. The proposed machine will effectively convert PET bottles into filament suitable for 3D printers.
 
 
 ## Description
