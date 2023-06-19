@@ -1,3 +1,4 @@
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/KevinOW/HALMSTAD_FABLAB_PET_RECYCLER/main?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/KevinOW/HALMSTAD_FABLAB_PET_RECYCLER?style=for-the-badge)
 
 <p align="center">
