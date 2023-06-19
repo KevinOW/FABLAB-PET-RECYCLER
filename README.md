@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/KevinOW/HALMSTAD_FABLAB_PET_RECYCLER?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/KevinOW/HALMSTAD_FABLAB_PET_RECYCLER?style=for-the-badge)(./LICENSE.md)
 
 <p align="center">
   <img width="500" height="150" src="https://i.imgur.com/0Yd6wvD.png">
