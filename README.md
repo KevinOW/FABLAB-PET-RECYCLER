@@ -10,7 +10,7 @@ This project is associated with the summer courses at the University of Halmstad
 
 
 ## Description
-This project represents a collaborative endeavor between the FABLab Halmstad in Sweden and Stena Recycling, a prominent company known for its commitment to sustainability. The project's core aim is the development of a highly sustainable and recyclable product with a strong emphasis on environmental responsibility. Specifically, the team aims to create a cutting-edge PET recycling machine that utilizes advanced 3D printing technology. By employing predominantly 3D printed components, the machine not only maximizes sustainability but also ensures widespread accessibility for users worldwide. Its primary function will be the transformation of PET bottles into high-quality filament, catering to the growing demand for sustainable materials in the 3D printing industry.
+This project represents a collaborative endeavor between the FABLab Halmstad in Sweden and Stena Recycling, a prominent company known for its commitment to sustainability. The project's core aim is the development of a highly sustainable and recyclable product with a strong emphasis on environmental responsibility. Specifically, the team aims to create a PET recycling machine that utilizes 3D printing technology. By employing predominantly 3D printed components, the machine not only maximizes sustainability but also ensures widespread accessibility for users worldwide. Its primary function will be the transformation of PET bottles into high-quality filament, catering to the growing demand for sustainable materials in the 3D printing industry.
 
 ## Built With
 Coming Soon...
