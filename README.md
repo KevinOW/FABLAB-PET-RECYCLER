@@ -19,6 +19,6 @@ The collaborative endeavor between FABLab Halmstad in Sweden and Stena Recycling
 Coming Soon...
 
 ## Authors
-[@KevinOW](https://github.com/KevinOW) &
+[Kevin Volmhagen](https://github.com/KevinOW) &
 Gustav Ferdman
 
