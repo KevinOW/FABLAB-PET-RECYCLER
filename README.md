@@ -17,7 +17,8 @@ The collaborative endeavor between FABLab Halmstad in Sweden and Stena Recycling
 More detailed information coming soon...
 
 ## Documentation
-Progression: First prototype at the top, finished project at the bottom of the section.
+First prototype at the top, finished project at the bottom of this section.
+___
 
 This is our first prototype to shred our plastic bottles.
 <p align="left">
