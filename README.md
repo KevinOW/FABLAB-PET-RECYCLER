@@ -16,7 +16,7 @@ The collaborative endeavor between FABLab Halmstad in Sweden and Stena Recycling
 
 More detailed information coming soon...
 
-## Documentation
+## Project Documentation
 To view the progress of the project [see documentation](FABLAB-PET-RECYCLER/documentation-of-project.md)
 
 ## Team
