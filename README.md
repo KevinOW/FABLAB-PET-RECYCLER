@@ -17,7 +17,21 @@ The collaborative endeavor between FABLab Halmstad in Sweden and Stena Recycling
 More detailed information coming soon...
 
 ## Documentation
-Coming Soon...
+Progression: First prototype at the top, finished project at the bottom of the section.
+
+
+<p align="center">
+  <img src="https://i.imgur.com/5AR1mVL.jpg">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/QlqRWVM.jpg">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/T4J4qwr.jpg">
+</p>
+
 
 ## Team
 [Kevin Volmhagen](https://github.com/KevinOW) &
