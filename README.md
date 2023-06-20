@@ -19,17 +19,17 @@ More detailed information coming soon...
 ## Documentation
 Progression: First prototype at the top, finished project at the bottom of the section.
 
-
-<p align="center">
-  <img src="https://i.imgur.com/5AR1mVL.jpg">
+This is our first prototype to shred our plastic bottles.
+<p align="left">
+  <img width="50%" height="50%" src="https://i.imgur.com/5AR1mVL.jpg">
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/QlqRWVM.jpg">
+<p align="left">
+  <img width="50%" height="50%" src="https://i.imgur.com/QlqRWVM.jpg">
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/T4J4qwr.jpg">
+<p align="left">
+  <img width="50%" height="50%" src="https://i.imgur.com/T4J4qwr.jpg">
 </p>
 
 
