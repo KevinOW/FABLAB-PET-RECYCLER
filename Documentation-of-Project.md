@@ -36,6 +36,18 @@ The second iteration of our component proved successful in effectively shredding
   <img width="50%" height="50%" src="https://i.imgur.com/II3t1vv.jpg">
 </p>
 
+
+___
+During this week (week 1), we conducted a comprehensive trend analysis to identify potential trends relevant to Stena Recycling. Our analysis encompassed various scales, including mega, macro, and micro trends. Here are some initial trends we have identified, written on sticky notes in Swedish, which will undergo further refinement and exploration in subsequent stages of our analysis.
+
+<p align="left">
+  <img width="50%" height="50%" src="https://i.imgur.com/LLiQ80C.jpg">
+</p>
+
+<p align="left">
+  <img width="50%" height="50%" src="https://i.imgur.com/PGMF9NK.jpg">
+</p>
+
 ___
 
 The third iteration of our plastic bottle cutting device demonstrates significant improvements. Firstly, we have optimized the 3D print time, reducing the overall production time. Additionally, we have incorporated a screw with a guiding mechanism that ensures consistent cutting throughout the entire process by effectively directing the plastic. Moreover, we have enhanced the attachment area for the razor blade by adjusting certain angles to achieve a better fit. These enhancements collectively enhance the functionality and efficiency of the device, resulting in improved performance and reliability.
