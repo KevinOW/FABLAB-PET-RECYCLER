@@ -1,13 +1,23 @@
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
-LiquidCrystal_I2C lcd(0x3F,16,2); 
-unsigned long counter = 0; 
-unsigned long counter_2 = 0;
+/*
+
+Motortest code
+
+This code is a test code for the step motors that will be used for the project. 
+In additon to that we connected a potentiometer to controll the step motors 
+and a LCD screen to see the current speed of the motors 4-50 steps (Will be changed to 1-10).
+
+*/
+
+#include <Wire.h> // Libary import
+#include <LiquidCrystal_I2C.h> // Libary import
+LiquidCrystal_I2C lcd(0x3F,16,2); // LCD Setup
+unsigned long counter = 0; // Counter for step motors
+unsigned long counter_2 = 0; // Counter for LCD
 const int dir = 2;   //Can be high or low, decides the direction of the motor
 const int step = 3;  //When turned high the motor performs one step, aka turns 1,8 degrees. Must remain high for at least a couple of microseconds.
-const int pot = 0;
+const int pot = 0; // Potentiometer
 int speed = 10; //Inverted, lower is faster.
-int potRead = 0;
+int potRead = 0; // Read the output of the potentiometer
 bool clockWise = 1;
 bool counterClockWise = 0;
 bool check = 0;
