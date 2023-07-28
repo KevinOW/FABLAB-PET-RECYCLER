@@ -21,7 +21,7 @@ To view the progress of the project [click here!](/Documentation-of-Project.md)
 
 ## Team
 [Kevin Volmhagen](https://github.com/KevinOW) &
-[Gustav Ferdman] https://github.com/Gustavio101
+[Gustav Ferdman] (https://github.com/Gustavio101)
 
 ## License
 Distributed under the GPL-3.0 License. See LICENSE.md for more information.
