@@ -1,8 +1,3 @@
-/*   
-modified on Sep 21, 2020
-Modified by MohammedDamirchi from https://github.com/sparkfun/HX711-Load-Cell-Amplifier base on https://www.instructables.com/id/Arduino-Scale-With-5kg-Load-Cell-and-HX711-Amplifi/
-Home 
-*/ 
 
 
 #include "HX711.h"
