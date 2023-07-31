@@ -2,9 +2,12 @@
 ![GitHub](https://img.shields.io/github/license/KevinOW/HALMSTAD_FABLAB_PET_RECYCLER?style=for-the-badge)
 
 <p align="center">
-  <img src="https://i.imgur.com/lYyZsGH.png">
+  <img src="https://i.imgur.com/lYyZsGH.png" width="350px">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/KgaTh74.png">
+</p>
 
 # Renewafil - A PET Recycler
 
@@ -21,7 +24,7 @@ To view the progress of the project [click here!](/Documentation-of-Project.md)
 
 ## Team
 [Kevin Volmhagen](https://github.com/KevinOW) &
-Gustav Ferdman
+[Gustav Ferdman](https://github.com/Gustavio101)
 
 ## License
 Distributed under the GPL-3.0 License. See LICENSE.md for more information.
