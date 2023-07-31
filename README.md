@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/KevinOW/HALMSTAD_FABLAB_PET_RECYCLER?style=for-the-badge)
 
 <p align="center">
-  <img src="https://i.imgur.com/lYyZsGH.png">
+  <img src="[https://i.imgur.com/lYyZsGH.png](https://i.imgur.com/Uzkkaew.png)">
 </p>
 
 
